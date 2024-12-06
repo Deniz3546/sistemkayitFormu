@@ -1,0 +1,10 @@
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\bin\Debug\Sistem_KAyit_Formu.exe.config
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\bin\Debug\Sistem_KAyit_Formu.exe
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\bin\Debug\Sistem_KAyit_Formu.pdb
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\obj\Debug\Sistem_KAyit_Formu.csproj.AssemblyReference.cache
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\obj\Debug\Sistem_KAyit_Formu.Form1.resources
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\obj\Debug\Sistem_KAyit_Formu.Properties.Resources.resources
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\obj\Debug\Sistem_KAyit_Formu.csproj.GenerateResource.cache
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\obj\Debug\Sistem_KAyit_Formu.csproj.CoreCompileInputs.cache
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\obj\Debug\Sistem_KAyit_Formu.exe
+C:\Users\deniz\Desktop\Udemy\Sistem_KAyit_Formu\Sistem_KAyit_Formu\obj\Debug\Sistem_KAyit_Formu.pdb
